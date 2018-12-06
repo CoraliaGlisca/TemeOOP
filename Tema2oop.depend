@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544035809 source:c:\users\cora\desktop\temeoop\tema2oop\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+
